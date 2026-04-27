@@ -1,6 +1,6 @@
 # 🎮 SamuelAlvisDev
 
-<img src="https://imgur.com/a/Q0FNLrT" width="100%" />
+<img src="https://i.imgur.com/6eUA8FH.png" width="100%" />
 
 ## 🚀 LEVEL 1 - INICIANTE
 
