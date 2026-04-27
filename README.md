@@ -1,56 +1,39 @@
-# 🎮 SamuelAlvisDev
+# 🎮 SamuelAlvisDev 👾
 
-<img src="https://i.imgur.com/6eUA8FH.png" width="100%" />
+<p align="center">
+  <img src="https://i.imgur.com/9bQWgvb.png" width="100%" />
+</p>
 
-## 🚀 LEVEL 1 - INICIANTE
-
-💻 Futuro Desenvolvedor Backend Java  
-🎯 Em construção...
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=25&center=true&vCenter=true&width=600&lines=LEVEL+1+-+INICIANTE;Futuro+Backend+Java;Em+evolução+constante..." />
+</p>
 
 ---
 
 ## 🧠 SOBRE MIM
 
-Olá! Eu sou o Samuel, tenho 22 anos e estou começando minha jornada como desenvolvedor backend.
+🎮 Apaixonado por tecnologia e jogos  
+🚀 Começando do zero rumo ao nível máximo  
+💻 Foco: Backend com Java  
 
-Meu foco é aprender e evoluir na stack:
-
-🔥 Java + Spring Boot + AWS + Microsserviços + Kafka  
-
-Aqui você vai acompanhar minha evolução!
-
-> ⚔️ Todo player começa no level 1. O importante é não parar.
+> ⚔️ "Todo player começa no level 1 — o importante é não parar."
 
 ---
 
-## ⚙️ STACK QUE VOU DOMINAR
+## ⚙️ STACK EM EVOLUÇÃO
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,postgres,git,kafka" />
+</p>
 
 ---
 
-## 🎯 JORNADA
+## 🎮 PLAYER STATUS
 
-🟢 Level 1 — Fundamentos (AGORA)  
-⚪ Level 2 — Backend  
-⚪ Level 3 — Cloud  
-⚪ Level 4 — Microsserviços  
-⚪ Level 5 — Dev Pro  
+```diff
++ LEVEL: 1
++ XP: 12%
++ CLASSE: Backend Developer
++ MISSÃO: Evoluir todos os dias
++ STATUS: Em progresso...
 
----
-
-## 📊 ESTATÍSTICAS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelAlvisDev&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamuelAlvisDev&theme=tokyonight)
-
----
-
-## 🎮 MISSÃO
-
-🚀 Me tornar um desenvolvedor incrível e mudar minha vida através da tecnologia.
